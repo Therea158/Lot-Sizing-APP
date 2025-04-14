@@ -53,7 +53,6 @@ else:
     st.write(f"💸 Estimasi Total Profit: Rp{total_profit:,.0f} (untuk {lot_final} lot)")
 
 st.markdown("---")
- Therea158/Lot-Sizing-Formula
 st.caption("#INVESTAPORADEPARTMENT #UnssafINIT14TOR")
 
 
