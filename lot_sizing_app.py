@@ -44,17 +44,8 @@ else:
     st.write(f"💸 Estimasi Total Profit: Rp{total_profit:,.0f} (untuk {lot_final} lot)")
 
 
-    # Estimasi profit
-    profit_per_lembar = target_price - entry_price
-    total_profit = profit_per_lembar * lot_final * 100  # 100 lembar per lot
-
-    st.markdown("## 💰 Estimasi Profit")
-    st.write(f"📈 Profit per Lembar: Rp{profit_per_lembar:,.0f}")
-    st.write(f"💸 Estimasi Total Profit: Rp{total_profit:,.0f} (untuk {lot_final} lot)")
-
+    
 st.markdown("---")
 st.caption("#INVESTAPORADEPARTMENT #UnssafINIT14TOR")
 
 
-st.caption("#INVESTAPORADEPT #UnssafINIT14TOR")
-main
